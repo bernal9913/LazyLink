@@ -1,0 +1,5 @@
+http://api.redalyc.org/search/title(Respuestas de J.R. Kantor y de B.F. Skinner a las preguntas epistemológicas básicas)/output(xml)/download(yes)/token(UW5ueFp1b1RidmZZZHlaeVI2T0dxUT09)
+http://api.redalyc.org/search/title(Análisis experimental de la Anestesia/Analgesia Hipnótica (A/AH): una propuesta interconductista)/output(xml)/download(yes)/token(UW5ueFp1b1RidmZZZHlaeVI2T0dxUT09)
+http://api.redalyc.org/search/title(Emociones: la mediación lingüística como irruptor previo al desempeño en una tarea académica)/output(xml)/download(yes)/token(UW5ueFp1b1RidmZZZHlaeVI2T0dxUT09)
+http://api.redalyc.org/search/title(Complexity and inclusivity of intrasituational behavior: empirical analysis)/output(xml)/download(yes)/token(UW5ueFp1b1RidmZZZHlaeVI2T0dxUT09)
+http://api.redalyc.org/search/title(Comportamiento asociado a patología sin la presencia de enfermedad: Un estudio de caso)/output(xml)/download(yes)/token(UW5ueFp1b1RidmZZZHlaeVI2T0dxUT09)
